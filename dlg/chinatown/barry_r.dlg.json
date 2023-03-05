@@ -1,0 +1,41 @@
+},
+"dlg\\chinatown\\barry_r.dlg": {
+  "1": {
+    "[Heavy, heavy accent]Nobody allowed upstairs.": ""
+  },
+  "2": {
+    "The guy at the table gave me permission.": ""
+  },
+  "3": {
+    "Move.": ""
+  },
+  "4": {
+    "That's what you think. See, this is usually when I get my way with violence.": ""
+  },
+  "5": {
+    "Wrong answer, pal. No, I'm going to make you regret it.": ""
+  },
+  "6": {
+    "Guess I'll find another way then.": ""
+  },
+  "11": {
+    "[Affirmative grunt]Huh.": ""
+  },
+  "12": {
+    "(Auto-End)": ""
+  },
+  "21": {
+    "[Shouting at someone who won't come out]Zhao! We know it was you!": ""
+  },
+  "31": {
+    "Once a Tong, always a Tong, Zhao! You know what happens to traitors!": ""
+  },
+  "41": {
+    "ZHAO! Don't be a coward! Come out and die like a man!": ""
+  },
+  "62": {
+    "(Starting Condition)": ""
+  },
+  "63": {
+    "(Starting Condition)": ""
+  }
