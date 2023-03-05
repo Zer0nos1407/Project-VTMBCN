@@ -1,0 +1,93 @@
+},
+"dlg\\chinatown\\hostess.dlg": {
+  "1": {
+    "Hello? Hey, baby. No, I'm still at work. I don't know, why WOULD I want to rush home right away? ... Yeah? I do like that. What else? With a what?! [Misunderstanding]Ohhh... you're in the kitchen, yeah, they were on sale so I bought some. You do too like zucchini!": ""
+  },
+  "2": {
+    "Hey, Andrea. Mm-hmm. What? No, he's not... no he's not! NO HE IS NOT! Uh... hold on, Andrea, I've got another call. Hey, Serena, did you hear about Joe and... yes he is. Yeah, he is! YES HE IS! I know, I was just on the phone with Andrea, and I was all, \"No, he's not!\" YES HE IS!": ""
+  },
+  "3": {
+    "Hello. Oh, hey, Andrea. Yeah, I'm still at work. No, not tonight, I have plans, sorry. So what are you going to do tonight? Hmm? ... Yeah, I know they're on sale, I picked some up. I'll call you later, okay, sweetie?": ""
+  },
+  "4": {
+    "Yeah? Oh, hi, Milla, what do you want? ... I'm sorry, I've got plans, I can't cover your shift tomorrow. So, what's the emergency? Well... it's not like it was sudden, I mean, he's been on life support for a long time. Funerals are usually over by five, okay? When did you ever cover my shift? But that WAS an emergency, Milla! It was a REALLY bad haircut, okay? ... Fine, I'll do it. Goodbye.": ""
+  },
+  "11": {
+    "Um, I'm sorry, dinner service stopped a little while ago. But our lounge is still open.": ""
+  },
+  "12": {
+    "I'm here to see Wong Ho. Ming-Xiao sent me.": ""
+  },
+  "13": {
+    "Just passing through.": ""
+  },
+  "14": {
+    "Ooh... fishies!": ""
+  },
+  "21": {
+    "I'll get the elevator.": ""
+  },
+  "22": {
+    "Thank you.": ""
+  },
+  "31": {
+    "[Without any conviction]Second floor. Have a good night.": ""
+  },
+  "32": {
+    "Goodbye.": ""
+  },
+  "41": {
+    "The lounge is right over there.": ""
+  },
+  "42": {
+    "Bye.": ""
+  },
+  "51": {
+    "Was there something else?": ""
+  },
+  "52": {
+    "I'm here to see Wong Ho.": ""
+  },
+  "53": {
+    "Just passing through.": ""
+  },
+  "54": {
+    "Ooh... fishies!": ""
+  },
+  "61": {
+    "[Frightened out of her mind]OH - MY - GOD!": ""
+  },
+  "62": {
+    "(Auto-Link)": ""
+  },
+  "63": {
+    "I'm here to see Wong Ho. Ming-Xiao sent me.": ""
+  },
+  "64": {
+    "Party of one. Near the fish tank if possible, please!": ""
+  },
+  "65": {
+    "Yeah, I get that a lot.": ""
+  },
+  "66": {
+    "Sorry, sorry - forget you saw me.": ""
+  },
+  "71": {
+    "Somebody call the police![screams in terror]": ""
+  },
+  "72": {
+    "(Auto-End)": ""
+  },
+  "83": {
+    "(Starting Condition)": ""
+  },
+  "84": {
+    "(Starting Condition)": ""
+  },
+  "85": {
+    "(Starting Condition)": ""
+  },
+  "86": {
+    "(Starting Condition)": ""
+  }
+},
